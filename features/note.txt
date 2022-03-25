@@ -1,0 +1,5 @@
+I separated the different pieces of functionality by feature file, they can be run individually or as a group
+
+group: behave features
+
+individual: behave wiki_features.feature
